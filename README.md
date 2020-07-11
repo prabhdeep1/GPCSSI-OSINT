@@ -1,4 +1,4 @@
-# GPCSSI-2020-TOOL
+# GPCSSI-2020-TOOL//<script/>
 
 Documentation  
 
@@ -7,7 +7,7 @@ Installing and using of GPCSSI-OSINT is very easy. Installation process is very 
     Downloading or cloning GPCSSI-OSINT github repository.
     Installing all dependencies.
 
-Let's Begin !!
+Let's Begin !!!
 Setting up the environment (Linux Operating System)
 
 Step 1 - Cloning GPCSSI-OSINT on your linux system.
