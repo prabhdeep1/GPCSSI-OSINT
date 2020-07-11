@@ -14,20 +14,20 @@ Step 1 - Cloning GPCSSI-OSINT on your linux system.
 
 In order to download GPCSSI-TOOL simply clone the github repository. Below is the command which you can use in order to clone GPCSSI-TOOL repository.
 
-git clone https://github.com/prabhdeep1/GPCSSI-OSINT.git
+```git clone https://github.com/prabhdeep1/GPCSSI-OSINT.git```
 
 Step 2 - Make sure python3 and python3-pip is installed on your system.
 
 You can also perform a check by typing this command in your terminal.
 
->>>sudo apt install python3 python3-pip
+```sudo apt install python3 python3-pip```
 
 Step 3 - Installing all dependencies.
 
 Once you clone and check python installation, you will find directory name as GPCSSI-TOOL. Just go to that directory and install using these commands:
 
->>>cd GPCSSI-OSINT 
->>>sudo python3 setup.py install
+```cd GPCSSI-OSINT``` 
+```sudo python3 setup.py install```
 
 Setting up the environment (Windows Operating System)
 
@@ -35,7 +35,7 @@ Step 1 - Downloading  on your windows system.
 
 In order to download GPCSSI-TOOL from github repository simply copy and paste this URL in your favourite browser.
 
-https://github.com/prabhdeep1/GPCSSI-OSINT.git
+```https://github.com/prabhdeep1/GPCSSI-OSINT.git```
 
 Step 2 - Unzipping the file
 
@@ -45,7 +45,7 @@ Step 2 - Installing all dependencies.
 
 After unzipping, go to that directory using Command Prompt and type the following command.
 
->>>pip3 install -r requirements.txt main.py
+```pip3 install -r requirements.txt main.py```
 
 Usage
 
