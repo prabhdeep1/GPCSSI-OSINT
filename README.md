@@ -55,36 +55,42 @@ GPCSSI-OSINT is very handy tool and easy to use. All you have to do is just have
 This option allows you to gather information of given phonenumber.
 
 Enter Your Choice >> 1
+
 PHONE NUMBER (919485247632) >>
 
 2. INSTAGRAM
 This option allows you to gather information of given INSTAGRAM Account.
 
 Enter Your Choice >> 2
+
 Enter Usernmane: 
 
 3. TWITTER
 This option allows you to gather information of given TWITTER Username.
 
 Enter Your Choice >> 3
+
 Enter Username:
 
 4. FACEBOOK
 This option allows you to gather information of given FACEBOOK Username.
 
 Enter Your Choice >> 4
+
 Enter Username:
 
 5. DOMAIN
 This option allows you to gather information of given DOMAIN Name.
 
 Enter Your Choice >> 5
+
 Enter Domain Name:
 
 6. EXIT
 When you are done using tool choose this OPTION
 
 Enter Your Choice >> 0
+
 GOOD BYE, HAVE A NICE DAY :)
 
 IF YOU PUT ANY OTHER NUMBER THAN (0-5), IT WILL BE CONSIDERED AS INVALID INPUT and TAKE YOU BACK TO THE MENU.
