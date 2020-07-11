@@ -45,7 +45,7 @@ Step 2 - Installing all dependencies.
 
 After unzipping, go to that directory using Command Prompt and type the following command.
 
-```pip3 install -r requirements.txt finalmain.py```
+```pip3 install -r requirements.txt```
 
 Usage
 
