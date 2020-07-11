@@ -27,7 +27,7 @@ Step 3 - Installing all dependencies.
 Once you clone and check python installation, you will find directory name as GPCSSI-TOOL. Just go to that directory and install using these commands:
 
 ```cd GPCSSI-OSINT``` 
-```sudo python3 setup.py install```
+``` pip3 install -r requirements.txt ```
 
 Setting up the environment (Windows Operating System)
 
