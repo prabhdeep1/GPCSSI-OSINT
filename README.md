@@ -10,7 +10,7 @@ Installing and using of GPCSSI-OSINT is very easy. Installation process is very 
 Let's Begin !!
 Setting up the environment (Linux Operating System)
 
-Step 1 - Cloning ReconSpider on your linux system.
+Step 1 - Cloning GPCSSI-OSINT on your linux system.
 
 In order to download GPCSSI-TOOL simply clone the github repository. Below is the command which you can use in order to clone GPCSSI-TOOL repository.
 
@@ -24,7 +24,7 @@ You can also perform a check by typing this command in your terminal.
 
 Step 3 - Installing all dependencies.
 
-Once you clone and check python installation, you will find directory name as reconspider. Just go to that directory and install using these commands:
+Once you clone and check python installation, you will find directory name as GPCSSI-TOOL. Just go to that directory and install using these commands:
 
 >>>cd GPCSSI-OSINT 
 >>>sudo python3 setup.py install
@@ -33,7 +33,7 @@ Setting up the environment (Windows Operating System)
 
 Step 1 - Downloading  on your windows system.
 
-In order to download ReconSpider from github repository simply copy and paste this URL in your favourite browser.
+In order to download GPCSSI-TOOL from github repository simply copy and paste this URL in your favourite browser.
 
 https://github.com/prabhdeep1/GPCSSI-OSINT.git
 
