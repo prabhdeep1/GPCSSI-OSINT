@@ -1,4 +1,4 @@
-# GPCSSI-2020-TOOL//<script/>
+# GPCSSI-2020-TOOL
 
 Documentation  
 
