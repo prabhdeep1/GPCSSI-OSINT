@@ -1,4 +1,4 @@
-# osint-tool
+# GPCSSI-TOOL
 
 Documentation
 
@@ -12,7 +12,7 @@ Setting up the environment (Linux Operating System)
 
 Step 1 - Cloning ReconSpider on your linux system.
 
-In order to download ReconSpider simply clone the github repository. Below is the command which you can use in order to clone ReconSpider repository.
+In order to download GPCSSI-TOOL simply clone the github repository. Below is the command which you can use in order to clone GPCSSI-TOOL repository.
 
 git clone https://github.com/prabhdeep1/GPCSSI-OSINT.git
 
@@ -45,21 +45,19 @@ Step 2 - Installing all dependencies.
 
 After unzipping, go to that directory using Command Prompt and type the following command.
 
->>>python3 setup.py main.py
+>>>pip3 install -r requirements.txt main.py
 
 Usage
 
 GPCSSI-OSINT is very handy tool and easy to use. All you have to do is just have to pass values to parameter. In order to start GPCSSI-OSINT just type:
 
 1. PHONENUMBER
-
 This option allows you to gather information of given phonenumber.
 
 Enter Your Choice >> 1
 PHONE NUMBER (919485247632) >>
 
 2. INSTAGRAM
-
 This option allows you to gather information of given INSTAGRAM Account.
 
 Enter Your Choice >> 2
