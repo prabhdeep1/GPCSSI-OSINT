@@ -56,7 +56,7 @@ This option allows you to gather information of given phonenumber.
 
 Enter Your Choice >> 1
 
-PHONE NUMBER (919485247632) >>
+PHONE NUMBER (91XXXXXXXXXX) >>
 
 2. INSTAGRAM
 This option allows you to gather information of given INSTAGRAM Account.
