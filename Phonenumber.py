@@ -3,7 +3,7 @@ import requests
 class main2(): 
  def Phonenumber(ph):
     print ('Getting Phone number Details...' + '\n')
-    api="2f8c8e865a0b25bbf4da08c4db039b8d"
+    api="fe14e1a990b25cafe5eb8ea8e9a411c7"
     url = ("http://apilayer.net/api/validate?access_key="+api+"&number="+str(ph))
     response=requests.get(url) 
    
